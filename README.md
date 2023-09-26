@@ -7,4 +7,10 @@
 活躍： AM 9:00 ~ PM 12:00 UTC+8 Taiwan
 ```
 _**我的discord：**_ [櫻雲客棧](https://discord.gg/YTY93djgYU)
-歡迎大家加入我的社群
+
+歡迎大家加入我的社群!!!
+
+接觸語言：
+```
+C C# C++ Java Python HTML CSS Javascript PHP MySQL
+```
