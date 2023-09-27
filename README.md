@@ -12,5 +12,5 @@ _**我的discord：**_ <kbd>[櫻雲客棧](https://discord.gg/YTY93djgYU)</kbd>
 
 接觸語言：
 ```
-C C# C++ Java Python HTML CSS Javascript PHP MySQL
+C C# C++ Java Kotlin Python Golang HTML CSS Javascript PHP MySQL Elixir
 ```
